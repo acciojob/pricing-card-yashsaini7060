@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+
+div{
+	width: 320px;
+/* 	height: 1000px; */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 5px;
+	background-color: #F1F1F1;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+img{
+	width: 300px;
+}
+
+button{
+	background-color: #FE625A;
+	padding: 15px;
+	color: white;
+	border-radius: 10px;
+	border: none;
+}
